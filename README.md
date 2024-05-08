@@ -1,12 +1,12 @@
-# Your Project Name
+# Street Signs Recognition
 
-| | |
-|-|-|
-|`Author` | Your full name
+|`Author` | ⭒ Andreea-Cristiana Vlad ⭒|
 
 ## Description
+The aim of this project is to recognize basic street signs and play a recorded message related to the meaning of the sign encountered. It is supposed to incorporate a simple camera for the sign recognition, and correlate the images to their respective audio description, which will be played using a simple buzzer.
 
 ## Motivation
+A big motivation in creating this project has been my wish to discover the applications of this subject in real life situations. For this reason, my initial idea was to create a device capable of scanning documents and "reading" the contents aloud (for example as an aid for people facing sight difficulties). As the idea relies mostly on programming outside the capabilities of a microcontroller, I decided to make the necessary changes in order to use the microcontroller more while keeping true to the initial purpose of the project.
 
 ## Architecture
 
