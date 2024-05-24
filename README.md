@@ -13,7 +13,7 @@ A big motivation in creating this project has been my wish to discover the appli
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+![Block Diagram](block_diagram.png)
 
 ### Schematic
 
