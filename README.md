@@ -17,7 +17,7 @@ A big motivation in creating this project has been my wish to discover the appli
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](schema.png)
 
 ### Components
 
