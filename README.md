@@ -1,6 +1,6 @@
 # Street Signs Recognition
 
-|`Author` | ⭒ Andreea-Cristiana Vlad ⭒|
+|`Author` |  `Andreea-Cristiana Vlad` |
 
 ## Description
 The aim of this project is to recognize basic street signs and play a recorded message related to the meaning of the sign encountered. It is supposed to incorporate a simple camera for the sign recognition, and correlate the images to their respective audio description, which will be played using a simple buzzer.
